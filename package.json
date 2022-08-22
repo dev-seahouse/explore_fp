@@ -1,0 +1,26 @@
+{
+  "name": "explore_fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-seahouse/explore_fp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-seahouse/explore_fp/issues"
+  },
+  "scripts": {
+    "test": "jasmine-browser-runner runSpecs"
+  },
+  "homepage": "https://github.com/dev-seahouse/explore_fp#readme",
+  "devDependencies": {
+    "jasmine-browser-runner": "^1.1.0",
+    "jasmine-core": "^4.3.0"
+  }
+}
